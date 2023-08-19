@@ -1,0 +1,33 @@
+html{
+    margin: 0%;
+    padding: 0%;
+}
+svg{
+    display: inline-flex;
+    height: 40px;
+    width:40px;
+    color:blue
+}
+.home{
+    display: grid;
+    justify-content: center;
+    color:blue
+}
+
+.lab{
+    margin-left: 3.5rem;
+    margin-bottom: 10px;
+    
+}
+
+ul{
+    list-style: none;
+}
+.todo{
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}
+/* input[type=radio]{
+    text-decoration: line-through;
+  } */
